@@ -1,0 +1,15 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos compilados do Python
+__pycache__/
+
+# Arquivos e pastas do Flask
+instance/
+
+# Banco de Dados
+*.sqlite
+*.db
+
+# Logs e Dados temporários
+*.log
